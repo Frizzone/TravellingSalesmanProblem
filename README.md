@@ -1,3 +1,3 @@
 # TravellingSalesmanProblem
 
-python .\solver.py .\data\[input filename]
+python .\solver.py .\data\filename
